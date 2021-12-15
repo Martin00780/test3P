@@ -1,1 +1,1 @@
-print("อะไรก็ได้casacaacdsc.");
+print("อิอิ.");
